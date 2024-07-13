@@ -1,5 +1,5 @@
 # NutriBest.Presentation
-A web application for selling fitness supplements, developed using ASP.NET Web API and React.
+A web application for selling fitness supplements, developed using C# ASP.NET Web API and React.
 
 <h2>Admin Panel Functionalities</h2>
 
