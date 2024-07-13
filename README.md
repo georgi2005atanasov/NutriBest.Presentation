@@ -1,39 +1,69 @@
 # NutriBest.Presentation
 A web application for selling fitness supplements, developed using ASP.NET Web API and React.
 
-Admin Panel Functionalities
-CRUD Operations
-Products: Create, read, update, and delete product entries.
-Promotions: Manage promotional campaigns and offers.
-Promo Codes: Generate, manage, and delete discount codes.
-Flavours: Add, edit, and remove flavor options.
-Categories: Organize and manage product categories.
-Brands: Manage brand information and relationships.
-Shipping Discounts: Set and manage discounts on shipping.
-Reports and Analytics
-Order-Based Reports: Visualize top categories, products, brands, and flavours through interactive charts.
-Date Filtering: Apply start and end date filters to refine report data.
-Demographic Reports: Analyze best-selling towns and countries with date filters for precise insights.
-User Monitoring
-Live User Tracking: View real-time user activity across different routes within the application.
-Notifications via SignalR
-Order Notifications: Receive alerts when an order is made or confirmed.
-Inventory Alerts: Get notified when product quantities are low (notifications stored).
-Simple Layouts for Management
-Categories, Brands, Flavours: Manage these entities through straightforward interfaces.
-Order Management Layout
-Filters: Filter orders by date, status (finished, shipped, confirmed, paid), and search by order ID, phone number, or customer name.
-User Management Layout
-Filters: Sort users by all, with orders, or without orders.
-Search Bar: Search by email, city, name, phone number, username, or user role.
-Role Assignment: Grant users different roles, such as employee.
-User Details: View detailed user activity, total money spent, order count, and send promo codes.
-User Deletion: Remove user profiles as needed.
-Export Functionality
-CSV Export: Export data for categories, products, flavours, packages, reports, brands, newsletter list, profiles, orders, promotions, promo codes, and shipping discounts.
-Newsletter Management Layout
-Filters: Filter users by those with orders, without orders, or anonymous users.
-Search Bar: Search by order ID, phone, or customer name.
-Email Sending: Send emails or promo codes to all users or specific groups.
-Email Notifications
-Admin Alerts: Receive emails when an order is made or confirmed.
+<h1>Admin Panel Functionalities</h1>
+
+<h2>CRUD Operations</h2>
+<ul>
+    <li><strong>Products:</strong> Create, read, update, and delete product entries.</li>
+    <li><strong>Promotions:</strong> Manage promotional campaigns and offers.</li>
+    <li><strong>Promo Codes:</strong> Generate, manage, and delete discount codes.</li>
+    <li><strong>Flavours:</strong> Add, edit, and remove flavor options.</li>
+    <li><strong>Categories:</strong> Organize and manage product categories.</li>
+    <li><strong>Brands:</strong> Manage brand information and relationships.</li>
+    <li><strong>Shipping Discounts:</strong> Set and manage discounts on shipping.</li>
+</ul>
+
+<h2>Reports and Analytics</h2>
+<ul>
+    <li><strong>Order-Based Reports:</strong> Visualize top categories, products, brands, and flavours through interactive charts.</li>
+    <li><strong>Date Filtering:</strong> Apply start and end date filters to refine report data.</li>
+    <li><strong>Demographic Reports:</strong> Analyze best-selling towns and countries with date filters for precise insights.</li>
+</ul>
+
+<h2>User Monitoring</h2>
+<ul>
+    <li><strong>Live User Tracking:</strong> View real-time user activity across different routes within the application.</li>
+</ul>
+
+<h2>Notifications via SignalR</h2>
+<ul>
+    <li><strong>Order Notifications:</strong> Receive alerts when an order is made or confirmed.</li>
+    <li><strong>Inventory Alerts:</strong> Get notified when product quantities are low (notifications stored).</li>
+</ul>
+
+<h2>Simple Layouts for Management</h2>
+<ul>
+    <li><strong>Categories, Brands, Flavours:</strong> Manage these entities through straightforward interfaces.</li>
+</ul>
+
+<h2>Order Management Layout</h2>
+<ul>
+    <li><strong>Filters:</strong> Filter orders by date, status (finished, shipped, confirmed, paid), and search by order ID, phone number, or customer name.</li>
+</ul>
+
+<h2>User Management Layout</h2>
+<ul>
+    <li><strong>Filters:</strong> Sort users by all, with orders, or without orders.</li>
+    <li><strong>Search Bar:</strong> Search by email, city, name, phone number, username, or user role.</li>
+    <li><strong>Role Assignment:</strong> Grant users different roles, such as employee.</li>
+    <li><strong>User Details:</strong> View detailed user activity, total money spent, order count, and send promo codes.</li>
+    <li><strong>User Deletion:</strong> Remove user profiles as needed.</li>
+</ul>
+
+<h2>Export Functionality</h2>
+<ul>
+    <li><strong>CSV Export:</strong> Export data for categories, products, flavours, packages, reports, brands, newsletter list, profiles, orders, promotions, promo codes, and shipping discounts.</li>
+</ul>
+
+<h2>Newsletter Management Layout</h2>
+<ul>
+    <li><strong>Filters:</strong> Filter users by those with orders, without orders, or anonymous users.</li>
+    <li><strong>Search Bar:</strong> Search by order ID, phone, or customer name.</li>
+    <li><strong>Email Sending:</strong> Send emails or promo codes to all users or specific groups.</li>
+</ul>
+
+<h2>Email Notifications</h2>
+<ul>
+    <li><strong>Admin Alerts:</strong> Receive emails when an order is made or confirmed.</li>
+</ul>
