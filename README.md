@@ -49,6 +49,7 @@ A web application for selling fitness supplements, developed using C# ASP.NET We
     <li><strong>Role Assignment:</strong> Grant users different roles, such as employee.</li>
     <li><strong>User Details:</strong> View detailed user activity, total money spent, order count, and send promo codes.</li>
     <li><strong>User Deletion:</strong> Remove user profiles as needed.</li>
+    <li><strong>Restoring Profiles:</strong>Deleted profiles can be restored.</li>
 </ul>
 
 <h3>Export Functionality</h3>
