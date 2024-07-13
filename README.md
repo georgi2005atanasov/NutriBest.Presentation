@@ -81,7 +81,7 @@ A web application for selling fitness supplements, developed using C# ASP.NET We
     <li><strong>Shipping Discounts:</strong> Pop-up container with products to fulfill shipping discount minimum price.</li>
     <li><strong>Newsletter Subscription:</strong> Sign up for the newsletter and receive promo codes.</li>
     <li><strong>Product Details:</strong> View product details with related products.</li>
-    <li><strong>Product Filters:</strong> Filter products by category, price, alphabetical order, brand, flavour, grams.</li>
+    <li><strong>Product Filters:</strong> Filter products by category, price, alphabetical order, brand, flavour, grams, and search text.</li>
     <li><strong>Home Page:</strong> Includes About Us, Contact Us, Newest Products, and Shop Now sections.</li>
     <li><strong>Brand and Category Layouts:</strong> Display different brands and categories.</li>
     <li><strong>Order Management:</strong> Create orders with invoice options and two payment methods (Cash on Delivery, Bank Transfer).</li>
