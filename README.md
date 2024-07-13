@@ -89,3 +89,8 @@ A web application for selling fitness supplements, developed using C# ASP.NET We
     <li><strong>Order Confirmation:</strong> Confirm order through email.</li>
     <li><strong>Anonymous Orders:</strong> Store orders as cookies for anonymous users and display in <strong>My Orders</strong> for authenticated users.</li>
 </ul>
+
+<h2>Additional Points</h2>
+<ul>
+    <li><strong>Pagination:</strong> Implemented where needed for efficient data navigation.</li>
+</ul>
