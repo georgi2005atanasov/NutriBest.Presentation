@@ -7,8 +7,8 @@ A web application for selling fitness supplements, developed using C# ASP.NET We
 <ul>
     <li><strong>Products:</strong> Create, read, update, and delete product entries.</li>
     <li><strong>Promotions:</strong> Manage promotional campaigns and offers.</li>
-    <li><strong>Promo Codes:</strong> Generate, manage, and delete discount codes.</li>
-    <li><strong>Flavours:</strong> Add, edit, and remove flavor options.</li>
+    <li><strong>Promo Codes:</strong> Generate and delete discount codes.</li>
+    <li><strong>Flavours:</strong> Add and remove flavor options.</li>
     <li><strong>Categories:</strong> Organize and manage product categories.</li>
     <li><strong>Brands:</strong> Manage brand information and relationships.</li>
     <li><strong>Shipping Discounts:</strong> Set and manage discounts on shipping.</li>
