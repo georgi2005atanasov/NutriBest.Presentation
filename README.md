@@ -73,7 +73,7 @@ A web application for selling fitness supplements, developed using C# ASP.NET We
 <h2>User Functionalities</h2>
 
 <ul>
-    <li><strong>Login and Registration:</strong> Register, login, and reset password via email.</li>
+    <li><strong>Login and Registration:</strong> Register, login, logout, and reset password via email.</li>
     <li><strong>Profile Management:</strong> Set profile details (email, name, username, age, gender) and address for automatic order form filling.</li>
     <li><strong>Shopping Cart:</strong> Add, remove, and set products in the cart.</li>
     <li><strong>Cart Management:</strong> Adjust product quantities and apply promo codes.</li>
