@@ -93,4 +93,5 @@ A web application for selling fitness supplements, developed using C# ASP.NET We
 <h2>Additional Points</h2>
 <ul>
     <li><strong>Pagination:</strong> Implemented where needed for efficient data navigation.</li>
+    <li><strong>Caching:</strong> Cache on the home page has been applied.</li>
 </ul>
