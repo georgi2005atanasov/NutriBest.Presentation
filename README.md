@@ -68,3 +68,24 @@ A web application for selling fitness supplements, developed using C# ASP.NET We
 <ul>
     <li><strong>Admin Alerts:</strong> Receive emails when an order is made or confirmed.</li>
 </ul>
+
+
+<h2>User Functionalities</h2>
+
+<ul>
+    <li><strong>Login and Registration:</strong> Register, login, and reset password via email.</li>
+    <li><strong>Profile Management:</strong> Set profile details (email, name, username, age, gender) and address for automatic order form filling.</li>
+    <li><strong>Shopping Cart:</strong> Add, remove, and set products in the cart.</li>
+    <li><strong>Cart Management:</strong> Adjust product quantities and apply promo codes.</li>
+    <li><strong>Order Creation:</strong> Create orders.</li>
+    <li><strong>Shipping Discounts:</strong> Pop-up container with products to fulfill shipping discount minimum price.</li>
+    <li><strong>Newsletter Subscription:</strong> Sign up for the newsletter and receive promo codes.</li>
+    <li><strong>Product Details:</strong> View product details with related products.</li>
+    <li><strong>Product Filters:</strong> Filter products by category, price, alphabetical order, brand, flavour, grams.</li>
+    <li><strong>Home Page:</strong> Includes About Us, Contact Us, Newest Products, and Shop Now sections.</li>
+    <li><strong>Brand and Category Layouts:</strong> Display different brands and categories.</li>
+    <li><strong>Order Management:</strong> Create orders with invoice options and two payment methods (Cash on Delivery, Bank Transfer).</li>
+    <li><strong>Order Details Page:</strong> View order details, including address, name, phone number, payment method, order status, purchased products, and their count.</li>
+    <li><strong>Order Confirmation:</strong> Confirm order through email.</li>
+    <li><strong>Anonymous Orders:</strong> Store orders as cookies for anonymous users and display in <strong>My Orders</strong> for authenticated users.</li>
+</ul>
