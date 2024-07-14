@@ -30,6 +30,7 @@ A web application for selling fitness supplements, developed using C# ASP.NET We
 <ul>
     <li><strong>Order Notifications:</strong> Receive alerts when an order is made or confirmed.</li>
     <li><strong>Inventory Alerts:</strong> Get notified when product quantities are low (notifications stored).</li>
+    <li><strong>Newsletter:</strong> Get notified when user signs up for the Newsletter.</li>
 </ul>
 
 <h3>Simple Layouts for Management</h3>
