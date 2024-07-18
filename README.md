@@ -95,4 +95,6 @@ A web application for selling fitness supplements, developed using C# ASP.NET We
 <ul>
     <li><strong>Pagination:</strong> Implemented where needed for efficient data navigation.</li>
     <li><strong>Caching:</strong> Cache on the home page has been applied.</li>
+    <li><strong>Testing:</strong> The API is covered with over 500 integration tests.</li>
+    <li><strong>Contact Information:</strong> If you are interested in the source code, please reach out through one of the contact methods provided in my profile!</li>
 </ul>
