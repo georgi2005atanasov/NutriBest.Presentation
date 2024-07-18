@@ -38,7 +38,7 @@ A web application for selling fitness supplements, developed using C# ASP.NET We
     <li><strong>Categories, Brands, Flavours:</strong> Manage these entities through straightforward interfaces.</li>
 </ul>
 
-<h2>Order Management Layout</h2>
+<h3>Order Management Layout</h3>
 <ul>
     <li><strong>Filters:</strong> Filter orders by date, status (finished, shipped, confirmed, paid), and search by order ID, phone number, or customer name.</li>
 </ul>
