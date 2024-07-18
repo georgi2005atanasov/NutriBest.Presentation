@@ -1,7 +1,7 @@
 # NutriBest.Presentation
 A web application for selling fitness supplements, developed using C# ASP.NET Web API and React.
 ## 🚧 Video in Progress 🚧
-A detailed video tutorial is currently in progress. For now, you can visit the "<a href=""></a>" folder to get a brief insights on the design that has been made. Stay tuned!
+A detailed video tutorial is currently in progress. For now, you can visit the "<a href="https://github.com/georgi2005atanasov/NutriBest.Presentation/tree/main/NutriBest.Images">NutriBest.Images</a>" folder to get brief insights into the design that has been made. Stay tuned!
 
 <h2>Admin Panel Functionalities</h2>
 
