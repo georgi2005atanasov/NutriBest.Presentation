@@ -98,5 +98,5 @@ A detailed video tutorial is currently in progress. For now, you can visit the "
     <li><strong>Pagination:</strong> Implemented where needed for efficient data navigation.</li>
     <li><strong>Caching:</strong> Cache on the home page has been applied.</li>
     <li><strong>Testing:</strong> The API is covered with over 500 integration tests.</li>
-    <li><strong>Contact Information:</strong> If you are interested in the source code, please reach out through one of the contact methods provided in <a href="https://github.com/georgi2005atanasov">my profile!</a></li>
+    <li><strong>Contact Information:</strong> If you are interested in the source code, please reach out through one of the contact methods provided in <a href="https://github.com/georgi2005atanasov">my profile</a>!</li>
 </ul>
